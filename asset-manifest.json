@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/yakitoriya/static/css/main.764abfcb.css",
-    "main.js": "/yakitoriya/static/js/main.9b0c69a2.js",
+    "main.css": "/yakitoriya/static/css/main.6d65ca74.css",
+    "main.js": "/yakitoriya/static/js/main.e590e408.js",
     "index.html": "/yakitoriya/index.html",
-    "main.764abfcb.css.map": "/yakitoriya/static/css/main.764abfcb.css.map",
-    "main.9b0c69a2.js.map": "/yakitoriya/static/js/main.9b0c69a2.js.map"
+    "main.6d65ca74.css.map": "/yakitoriya/static/css/main.6d65ca74.css.map",
+    "main.e590e408.js.map": "/yakitoriya/static/js/main.e590e408.js.map"
   },
   "entrypoints": [
-    "static/css/main.764abfcb.css",
-    "static/js/main.9b0c69a2.js"
+    "static/css/main.6d65ca74.css",
+    "static/js/main.e590e408.js"
   ]
 }
